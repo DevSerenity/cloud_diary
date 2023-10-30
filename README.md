@@ -1,4 +1,3 @@
-
 #### 介绍
 一款用于个人日常记录，旅游是，生活的个人备忘录系统，系统采用 B/S 架构，使用 BootStrap + Jsp + Servlet + MySQL+ Tomcat 开发，使用 Maven 构建，采用 Junit 单元测试、Log4j 搭建日志、使用 POI 导入导出报表，操作 DB 使用大名鼎鼎的 DBUtil
 #### 软件架构
@@ -79,13 +78,16 @@
 
 #### 相关截图
 
-![输入图片说明](reference/002_%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/images/login.png)
-![输入图片说明](reference/002_%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/images/user.png)
-![输入图片说明](reference/002_%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/images/date.png)
-![输入图片说明](reference/002_%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/images/list.png)
-![输入图片说明](reference/002_%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/images/out.png)
-![输入图片说明](reference/002_%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/images/index.png)# CloudDiary
 
+
+![login](https://github.com/DevSerenity/cloud_diary/assets/145914713/81ccf232-e1fa-4f36-9b46-791951bd4260)
+![index](https://github.com/DevSerenity/cloud_diary/assets/145914713/f54368bb-4d13-4fb0-92d9-33e9429b1297)
+![发表云日记页面](https://github.com/DevSerenity/cloud_diary/assets/145914713/f89297a2-81fc-4167-bc01-c51b48ebcce9)
+![个人中心](https://github.com/DevSerenity/cloud_diary/assets/145914713/9552a288-c3b9-425e-b32f-8ecc9351d28c)
+![类别管理](https://github.com/DevSerenity/cloud_diary/assets/145914713/3324528c-5153-478b-b55a-bc9d8000fc30)
+![数据报表](https://github.com/DevSerenity/cloud_diary/assets/145914713/983a41e9-3429-4456-b720-0ff5e2a6ea32)
+![修改类别](https://github.com/DevSerenity/cloud_diary/assets/145914713/3e662867-8bd5-4477-8428-96ca2e99c381)
+![云记列表](https://github.com/DevSerenity/cloud_diary/assets/145914713/7d066c5a-ccf5-45c3-b5b2-55881d2b3d14)
 
 #### 参与贡献
 
